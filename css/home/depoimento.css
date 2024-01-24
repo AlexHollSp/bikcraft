@@ -1,3 +1,7 @@
+.depoimento-bg {
+  background-color: var(--cor-p1);
+}
+
 .depoimento {
   display: grid;
   grid-template-columns: 1fr 1fr;
