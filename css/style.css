@@ -22,10 +22,6 @@
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
 
-/* Termos*/
-
-@import "./termos/termos.css";
-
 /* Bicicletas*/
 
 @import "./bicicletas/bicicletas.css";
@@ -37,3 +33,10 @@
 /* Contato */
 @import "./contato/contato.css";
 @import "./contato/lojas.css";
+
+/* Termos*/
+
+@import "./termos/termos.css";
+
+/* Orçamentos */
+@import "./orcamento/orcamento.css";
