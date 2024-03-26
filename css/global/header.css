@@ -30,12 +30,13 @@
   height: 2px;
   width: 0;
   margin-top: 4px;
-  background-color: var(--cor-0);
+  background-color: var(--cor-p1);
   transition: 0.5s;
   position: absolute;
 }
 
-.header-menu a:hover:after {
+.header-menu a:hover::after,
+.header-menu a.ativo::after {
   width: 100%;
 }
 
