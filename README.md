@@ -6,7 +6,7 @@
     <img alt="portfolio Pessoal" src="./img/Capabikcraft.png" width="100%">
 </p>
 
-[Visualizar Projeto](https://alexhollsp.github.io/Portfolio-Pessoal/)
+[Visualizar Projeto](https://alexhollsp.github.io/bikcraft/)
 
 ## Design
 
